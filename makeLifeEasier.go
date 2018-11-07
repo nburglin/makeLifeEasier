@@ -1,7 +1,7 @@
 package main
 
 import (
-    "makeLifeEasier/dao"
+    "github.com/nburglin/makeLifeEasier/dao"
     "log"
     "strings"
     "flag"
